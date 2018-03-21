@@ -1,0 +1,32 @@
+//PROGRAMA CALCULADORA
+/* se desea programar una calculadora con las siguientes funciones
+	- Sumar
+	- Restar
+	- Multiplicar
+	- Dividir*/
+
+
+
+
+//función suma (a+b)
+...
+
+
+
+
+//función resta (a-b)
+...
+
+
+
+
+//función multiplicación(a*b)
+...
+
+
+
+
+//función dividisión
+...
+
+

@@ -1,7 +1,0 @@
-klk manin
-
-Para guardar las cosas hay que hacer commit, puedo escribir git commit-m (Descripcion) o también puedo hacer git commit
-y dentro darle a la i de insertar para poer escribir,una vez escrito darle a escape para salir del modo insertar, poner dos puntos
-y escribir wq para guardarlo.
-
-Probando cambios para github
