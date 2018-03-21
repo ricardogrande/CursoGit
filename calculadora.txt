@@ -21,10 +21,10 @@
 
 
 //función multiplicación(a*b)
-...
-
-
-
+multiplicacion (int a, int b){
+	a por b = ab;
+	gracias;
+}
 
 //función dividisión
 ...
