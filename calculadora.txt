@@ -16,9 +16,7 @@
 
 //función resta (a-b)
 hola, ricardo bobo
-
-
-
+pero que dices bonobo,firmado:ricardo
 
 
 //función multiplicación(a*b)
