@@ -15,21 +15,22 @@ return a+b
 
 
 //función resta (a-b)
-...
+hola, ricardo bobo
+
 
 
 
 
 //función multiplicación(a*b)
-...
-
-
-
+multiplicacion (int a, int b){
+	a por b = ab;
+	gracias;
+}
 
 //función dividisión
 int division(int a, int b){
  return a/b;
-
+//cambio
 }
 
 
