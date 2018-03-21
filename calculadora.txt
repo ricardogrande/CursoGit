@@ -15,7 +15,8 @@
 
 
 //función resta (a-b)
-...
+hola, ricardo bobo
+
 
 
 
