@@ -15,7 +15,7 @@
 
 
 //función resta (a-b)
-hola, ricardo bobo
+hola, ricardo bobo x4 
 
 
 
