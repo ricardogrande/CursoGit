@@ -10,13 +10,13 @@
 
 //función suma (a+b)
 ...
-
+return a+b
 
 
 
 //función resta (a-b)
-hola, ricardo bobo x4 
 
+hola
 
 
 
@@ -30,7 +30,7 @@ multiplicacion (int a, int b){
 //función dividisión
 int division(int a, int b){
  return a/b;
-
+//cambio
 }
 
 
